@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_to_98 - print from any integer to 98 
+ * print_to_98 - print from any integer to 98
  *
  * @n: integer input
  *
