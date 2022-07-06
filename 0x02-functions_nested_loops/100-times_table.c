@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - print the sum of the even-values in a fibonacci
+ * print_times_table - print the n times table
  *
- * Return: 0 after execution
+ * Return: void
  */
 
 void print_times_table(int n)
