@@ -1,11 +1,9 @@
 #include "main.h"
 
 /**
- * main: program starting point
+ * main - print _putchar, then a new line
  *
- * Description: prints with _putchar
- *
- * Return: 0 after execution
+ * Return: Returns 0 after execution
  */
 
 int main(void)
