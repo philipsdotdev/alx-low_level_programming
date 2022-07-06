@@ -3,7 +3,7 @@
 /**
  * main - print the first 50 fibonacci numbers
  *
- * Return: 0 after execution 
+ * Return: 0 after execution
  */
 
 int main(void)
